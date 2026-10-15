@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Taipei-Taiwan-FF6AC1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Wallpaper_Engine-Creator-A06BFF?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine creator" />
-  <img src="https://komarev.com/ghpvc/?username=eryet&label=Profile%20views&color=3EC8F5&style=for-the-badge" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feryet&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%233ec8f5&style=for-the-badge" alt="Profile views" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
