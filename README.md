@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/eryet">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6AC1&center=true&vCenter=true&width=700&lines=Frontend+dev+from+Taipei%2C+Taiwan+%F0%9F%A7%8B;I+make+animated+anime+wallpapers+%E2%9C%A8;Pure+JS%2C+no+frameworks%2C+max+FPS+%E2%9A%A1;Pixi.js+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Lottie+%C2%B7+Rive+%F0%9F%8E%A8;React+%2B+TypeScript+%2B+React+Native+%E2%9A%9B%EF%B8%8F;I+build+Chrome+extensions+that+fix+the+web+%F0%9F%A7%A9;Collecting+Claude+Code+%26+Codex+skills+%F0%9F%A4%96;Turning+CSS+into+eye+candy+%F0%9F%8D%AC;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80;Yes%2C+I+love+anime+%F0%9F%92%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6AC1&center=true&vCenter=true&width=700&lines=Frontend+dev+from+Taipei%2C+Taiwan+%F0%9F%A7%8B;I+make+animated+anime+wallpapers+%E2%9C%A8;Pure+JS%2C+no+frameworks%2C+max+FPS+%E2%9A%A1;Pixi.js+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Lottie+%C2%B7+Rive+%F0%9F%8E%A8;React+%2B+TypeScript+%2B+React+Native+%E2%9A%9B%EF%B8%8F;I+build+Chrome+extensions+that+fix+the+web+%F0%9F%A7%A9;Collecting+Claude+Code+%26+Codex+skills+%F0%9F%A4%96;Turning+CSS+into+eye+candy+%F0%9F%8D%AC;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </p>
 
