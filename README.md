@@ -1,11 +1,11 @@
 <!-- ───────────── Header ───────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,50:A06BFF,100:3EC8F5&height=220&section=header&text=Hi,%20I'm%20Eryet&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Frontend%20Developer%20%E2%80%A2%20Taipei,%20Taiwan&descSize=20&descAlignY=58" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,50:A06BFF,100:3EC8F5&height=220&section=header&text=Hi,%20I'm%20Eryet&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Frontend%20Engineer%20%E2%80%A2%20AI-Augmented%20Development%20%E2%80%A2%20Taipei&descSize=20&descAlignY=58" width="100%" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/eryet">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6AC1&center=true&vCenter=true&width=700&lines=Frontend+dev+from+Taipei%2C+Taiwan+%F0%9F%A7%8B;I+make+animated+anime+wallpapers+%E2%9C%A8;Pure+JS%2C+no+frameworks%2C+max+FPS+%E2%9A%A1;Pixi.js+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Lottie+%C2%B7+Rive+%F0%9F%8E%A8;React+%2B+TypeScript+%2B+React+Native+%E2%9A%9B%EF%B8%8F;I+build+Chrome+extensions+that+fix+the+web+%F0%9F%A7%A9;Collecting+Claude+Code+%26+Codex+skills+%F0%9F%A4%96;Turning+CSS+into+eye+candy+%F0%9F%8D%AC;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6AC1&center=true&vCenter=true&width=700&lines=Creative+Frontend+Engineer+from+Taipei+%F0%9F%A7%8B;AI-augmented+development%2C+human-reviewed+%F0%9F%A4%96;Agent+skills+for+Claude+Code+%26+Codex+%F0%9F%A7%A0;Agentic+workflows+%C2%B7+MCP+%C2%B7+Tool+calling+%E2%9A%99%EF%B8%8F;Harness+engineering+for+coding+agents+%F0%9F%9B%A0%EF%B8%8F;React+%C2%B7+TypeScript+%C2%B7+WebGL+%C2%B7+Pixi.js+%F0%9F%8E%A8;Chrome+extensions+that+ship+to+real+users+%F0%9F%A7%A9;From+prototype+to+production%2C+end+to+end+%F0%9F%9A%80;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/eryet/suisei-wallpaper/HEAD/images/20221103102313.gif" alt="sleepy Suisei" />
 
-- 🎨 Frontend dev who turns **CSS / JS / animation** into eye candy
-- 🌌 I make **animated anime wallpapers** for Wallpaper Engine in pure JS, no frameworks, for max FPS
-- 🧩 I build **Chrome extensions** for things that annoy me (ChatGPT timestamps, Threads spam filter)
-- 🧪 Playing with **Pixi.js, Three.js, Lottie, Rive** and creative coding demos
-- 🤖 Collecting **Claude Code & Codex skills**
+- 🎨 **Creative frontend engineer** specializing in high-performance, animation-rich interfaces (React, TypeScript, WebGL, Pixi.js, Three.js)
+- 🤖 **AI-augmented development**: I work daily in agent harnesses like **Claude Code** and **OpenAI Codex** for planning, implementation and code review, with human review before every merge
+- 🧠 **Agent skill author**: reusable, versioned skills that give coding agents new capabilities (image ML pipelines, analytics instrumentation)
+- 🧩 **Browser extensions** that improve AI and social platforms ([ChatGPT timestamps & export](https://chromewebstore.google.com/detail/chatgpt-chats-timestamp/fjfjjofbppklnihhhdfcojbdbghpolhm), Threads data tools)
+- ⚡ **Performance-first**: framework-free animated wallpapers tuned for a smooth 60 FPS
 - 💀 Professional Opus, Astra & Fable glazer
 
 <br clear="right" />
@@ -50,6 +50,24 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+
+<!-- ───────────── AI ───────────── -->
+## 🤖 AI & Agentic Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
+- **Agent skills for Claude Code & Codex**: `SKILL.md` specs with reference docs, agent configs, and validation + packaging scripts that ship each skill as a portable `.skill` archive ([claude-skill-collection](https://github.com/eryet/claude-skill-collection) · [codex-skill-collection](https://github.com/eryet/codex-skill-collection))
+- **ML tooling made agent-callable**: background removal that auto-routes between flood-fill and `rembg` segmentation; local GPU upscaling with Real-CUGAN, Real-ESRGAN and waifu2x
+- **Analytics automation**: a GA4 event-tracking skill that lets an agent add, audit and update instrumentation on websites
+- **Context engineering**: project memory (`CLAUDE.md` / `AGENTS.md`), scoped tool permissions and human-in-the-loop review
+- **LLM product UX**: tools around AI products, like timestamps, navigation and export for ChatGPT conversations
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
 
