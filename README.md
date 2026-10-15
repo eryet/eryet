@@ -43,12 +43,12 @@
 
 <p align="center">
   <b>Backend</b><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,python,flask,cpp&perline=9" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,java,python,flask,cpp&perline=10" alt="Backend" />
 </p>
 
 <p align="center">
   <b>Testing, DevOps & tools</b><br />
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,grafana,git,githubactions,docker,vercel,webpack,powershell,electron,vscode&perline=12" alt="Testing, DevOps and tools" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,grafana,git,githubactions,docker,aws,vercel,webpack,powershell,electron,vscode&perline=7" alt="Testing, DevOps and tools" />
 </p>
 
 <p align="center">
@@ -74,6 +74,7 @@
 <p align="center">
   <b>Data, APIs & quality</b><br />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
   <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
   <img src="https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
