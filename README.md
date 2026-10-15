@@ -37,18 +37,46 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vite,remix,threejs&perline=9" alt="Frontend skills" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,cpp,git,vercel,vscode&perline=7" alt="Other skills" />
+  <b>Frontend</b><br />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vue,pinia,vite,tailwind,materialui,threejs,astro,bootstrap&perline=8" alt="Frontend" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pixi.js-E72264?style=for-the-badge&logoColor=white" alt="Pixi.js" />
+  <b>Backend</b><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,python,flask,cpp&perline=9" alt="Backend" />
+</p>
+
+<p align="center">
+  <b>Testing, DevOps & tools</b><br />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,grafana,git,githubactions,docker,vercel,webpack,powershell,electron,vscode&perline=12" alt="Testing, DevOps and tools" />
+</p>
+
+<p align="center">
+  <b>Animation & creative coding</b><br />
+  <img src="https://img.shields.io/badge/Pixi.js-E72264?style=for-the-badge" alt="Pixi.js" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Lottie" />
   <img src="https://img.shields.io/badge/Rive-FF5678?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+</p>
+
+<p align="center">
+  <b>UI, mobile & platforms</b><br />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/LINE_LIFF_%26_Messaging_API-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE LIFF &amp; Messaging API" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+</p>
+
+<p align="center">
+  <b>Data, APIs & quality</b><br />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
