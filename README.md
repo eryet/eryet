@@ -28,7 +28,6 @@
 - 🧪 Playing with **Pixi.js, Three.js, Lottie, Rive** and creative coding demos
 - 🤖 Collecting **Claude Code & Codex skills**
 - 💀 Professional Opus, Astra & Fable glazer
-- 💖 And yes, I love anime
 
 <br clear="right" />
 
