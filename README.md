@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Taipei-Taiwan-FF6AC1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Wallpaper_Engine-Creator-A06BFF?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine creator" />
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feryet&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%233ec8f5&style=for-the-badge" alt="Profile views" />
-  <img src="assets/eryet-88x31.gif" width="88" height="31" alt="eryet 88x31 button" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
@@ -125,6 +124,10 @@
   <a href="https://github.com/eryet/threads-shopee-filter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=threads-shopee-filter&theme=radical&hide_border=true&description_lines_count=3" alt="threads-shopee-filter" /></a>
   <a href="https://github.com/eryet/text-beziour-pixijs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=text-beziour-pixijs&theme=radical&hide_border=true&description_lines_count=3" alt="text-beziour-pixijs" /></a>
   <a href="https://github.com/eryet/claude-skill-collection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=claude-skill-collection&theme=radical&hide_border=true&description_lines_count=3" alt="claude-skill-collection" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/eryet-88x31.gif" width="88" height="31" alt="eryet 88x31 button" />
 </p>
 
 <!-- ───────────── Footer ───────────── -->
