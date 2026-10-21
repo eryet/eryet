@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Taipei-Taiwan-FA04D3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Wallpaper_Engine-Creator-7F47CF?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine creator" />
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feryet&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%23a94cce&style=for-the-badge" alt="Profile views" />
+  <a href="https://wakatime.com/@3579bb2a-102f-4d09-bdf0-6527bef34fdd"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fwakatime.com%2Fbadge%2Fuser%2F3579bb2a-102f-4d09-bdf0-6527bef34fdd.svg&amp;query=%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&amp;label=WakaTime&amp;color=8A55E0&amp;style=for-the-badge&amp;logo=wakatime&amp;logoColor=white&amp;cacheSeconds=3600" alt="WakaTime total coding time" /></a>
 </p>
 
 <img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
