@@ -1,6 +1,6 @@
 <!-- ───────────── Header ───────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,50:A06BFF,100:3EC8F5&height=220&section=header&text=Hi,%20I'm%20Eryet&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Frontend%20Engineer%20%E2%80%A2%20AI-Augmented%20Development%20%E2%80%A2%20Taipei&descSize=20&descAlignY=58" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F47CF,35:A94CCE,70:FA04D3,100:E091FF&height=220&section=header&text=Hi,%20I'm%20Eryet&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Frontend%20Engineer%20%E2%80%A2%20AI-Augmented%20Development%20%E2%80%A2%20Taipei&descSize=20&descAlignY=58" width="100%" alt="header" />
 </p>
 
 <p align="center">
@@ -132,5 +132,5 @@
 
 <!-- ───────────── Footer ───────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3EC8F5,50:A06BFF,100:FF6AC1&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E091FF,30:FA04D3,65:A94CCE,100:7F47CF&height=120&section=footer" width="100%" alt="footer" />
 </p>
