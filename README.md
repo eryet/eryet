@@ -5,17 +5,17 @@
 
 <p align="center">
   <a href="https://github.com/eryet">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6AC1&center=true&vCenter=true&width=700&lines=Creative+Frontend+Engineer+from+Taipei+%F0%9F%A7%8B;AI-augmented+development%2C+human-reviewed+%F0%9F%A4%96;Agent+skills+for+Claude+Code+%26+Codex+%F0%9F%A7%A0;Agentic+workflows+%C2%B7+MCP+%C2%B7+Tool+calling+%E2%9A%99%EF%B8%8F;Harness+engineering+for+coding+agents+%F0%9F%9B%A0%EF%B8%8F;React+%C2%B7+TypeScript+%C2%B7+WebGL+%C2%B7+Pixi.js+%F0%9F%8E%A8;Chrome+extensions+that+ship+to+real+users+%F0%9F%A7%A9;From+prototype+to+production%2C+end+to+end+%F0%9F%9A%80;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A94CCE&center=true&vCenter=true&width=700&lines=Creative+Frontend+Engineer+from+Taipei+%F0%9F%A7%8B;AI-augmented+development%2C+human-reviewed+%F0%9F%A4%96;Agent+skills+for+Claude+Code+%26+Codex+%F0%9F%A7%A0;Agentic+workflows+%C2%B7+MCP+%C2%B7+Tool+calling+%E2%9A%99%EF%B8%8F;Harness+engineering+for+coding+agents+%F0%9F%9B%A0%EF%B8%8F;React+%C2%B7+TypeScript+%C2%B7+WebGL+%C2%B7+Pixi.js+%F0%9F%8E%A8;Chrome+extensions+that+ship+to+real+users+%F0%9F%A7%A9;From+prototype+to+production%2C+end+to+end+%F0%9F%9A%80;Professional+Opus%2C+Astra+%26+Fable+glazer+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Taipei-Taiwan-FF6AC1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Wallpaper_Engine-Creator-A06BFF?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine creator" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feryet&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%233ec8f5&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Taipei-Taiwan-FA04D3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Wallpaper_Engine-Creator-7F47CF?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine creator" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Feryet&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%23a94cce&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+<img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
 
 <!-- ───────────── About ───────────── -->
 ## 🌈 About me
@@ -31,7 +31,7 @@
 
 <br clear="right" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+<img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
 
 <!-- ───────────── Tech stack ───────────── -->
 ## 🛠️ Tech stack
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+<img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
 
 <!-- ───────────── AI ───────────── -->
 ## 🤖 AI & Agentic Engineering
@@ -97,7 +97,7 @@
 - **Context engineering**: project memory (`CLAUDE.md` / `AGENTS.md`), scoped tool permissions and human-in-the-loop review
 - **LLM product UX**: tools around AI products, like timestamps, navigation and export for ChatGPT conversations
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+<img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
 
 <!-- ───────────── Wallpapers ───────────── -->
 ## 🖼️ Animated wallpapers
@@ -105,25 +105,25 @@
 > Full-screen web wallpapers. Open one and press <kbd>F11</kbd> ✨ &nbsp;·&nbsp; [See the whole collection →](https://github.com/eryet/my-animated-wallpaper)
 
 <p align="center">
-  <a href="https://suisei-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Suisei-Live_demo-3EC8F5?style=for-the-badge&logo=vercel&logoColor=white" alt="Suisei wallpaper" /></a>
-  <a href="https://kanon-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Kanon-Live_demo-FF6AC1?style=for-the-badge&logo=vercel&logoColor=white" alt="Kanon wallpaper" /></a>
-  <a href="https://sachi-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Sachi-Live_demo-A06BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Sachi wallpaper" /></a>
-  <a href="https://shigure-ui-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Shigure_Ui-Live_demo-FF8C42?style=for-the-badge&logo=vercel&logoColor=white" alt="Shigure Ui wallpaper" /></a>
-  <a href="https://arknight-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Arknights-Live_demo-2EC4B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Arknights wallpaper" /></a>
+  <a href="https://suisei-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Suisei-Live_demo-7F47CF?style=for-the-badge&logo=vercel&logoColor=white" alt="Suisei wallpaper" /></a>
+  <a href="https://kanon-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Kanon-Live_demo-8A55E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Kanon wallpaper" /></a>
+  <a href="https://sachi-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Sachi-Live_demo-A94CCE?style=for-the-badge&logo=vercel&logoColor=white" alt="Sachi wallpaper" /></a>
+  <a href="https://shigure-ui-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Shigure_Ui-Live_demo-D228D0?style=for-the-badge&logo=vercel&logoColor=white" alt="Shigure Ui wallpaper" /></a>
+  <a href="https://arknight-wallpaper.vercel.app"><img src="https://img.shields.io/badge/Arknights-Live_demo-FA04D3?style=for-the-badge&logo=vercel&logoColor=white" alt="Arknights wallpaper" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+<img src="assets/divider-eva.png" width="100%" height="4" alt="divider" />
 
 <!-- ───────────── Projects ───────────── -->
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/eryet/chatgpt-chats-timestamp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=chatgpt-chats-timestamp&theme=radical&hide_border=true&description_lines_count=3" alt="chatgpt-chats-timestamp" /></a>
-  <a href="https://github.com/eryet/threads-extractor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=threads-extractor&theme=radical&hide_border=true&description_lines_count=3" alt="threads-extractor" /></a>
-  <a href="https://github.com/eryet/ascii-logo-cube"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=ascii-logo-cube&theme=radical&hide_border=true&description_lines_count=3" alt="ascii-logo-cube" /></a>
-  <a href="https://github.com/eryet/threads-shopee-filter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=threads-shopee-filter&theme=radical&hide_border=true&description_lines_count=3" alt="threads-shopee-filter" /></a>
-  <a href="https://github.com/eryet/text-beziour-pixijs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=text-beziour-pixijs&theme=radical&hide_border=true&description_lines_count=3" alt="text-beziour-pixijs" /></a>
-  <a href="https://github.com/eryet/claude-skill-collection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=claude-skill-collection&theme=radical&hide_border=true&description_lines_count=3" alt="claude-skill-collection" /></a>
+  <a href="https://github.com/eryet/chatgpt-chats-timestamp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=chatgpt-chats-timestamp&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="chatgpt-chats-timestamp" /></a>
+  <a href="https://github.com/eryet/threads-extractor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=threads-extractor&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="threads-extractor" /></a>
+  <a href="https://github.com/eryet/ascii-logo-cube"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=ascii-logo-cube&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="ascii-logo-cube" /></a>
+  <a href="https://github.com/eryet/threads-shopee-filter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=threads-shopee-filter&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="threads-shopee-filter" /></a>
+  <a href="https://github.com/eryet/text-beziour-pixijs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=text-beziour-pixijs&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="text-beziour-pixijs" /></a>
+  <a href="https://github.com/eryet/claude-skill-collection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eryet&repo=claude-skill-collection&bg_color=222121&title_color=E091FF&text_color=C99EC7&icon_color=FA04D3&hide_border=true&description_lines_count=3" alt="claude-skill-collection" /></a>
 </p>
 
 <p align="center">
